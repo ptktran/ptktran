@@ -1,17 +1,21 @@
-### Hi there 👋
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptktran&show_icons=true&theme=radical&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptktran&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**ptktran/ptktran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi, I'm Peter!</h2>
+<h3 align="center">trying to become a fullstack developer 🥱</h3>
+- 🔭 i’m currently working on personal projects and attending hackathons
+- 🕹️ i’m currently learning new frameworks and languages
+- 🖥️ learn more about me at [ptktran.vercel.app](https://ptktran.vercel.app)
 
-Here are some ideas to get you started:
+languages:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,php,bash,mysql&theme=dark" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+technologies:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,svelte,angular,nodejs,tailwind,boostrap,github&theme=dark" />
+  </a>
+</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m9l81amepbe96a1owslqu2ytk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

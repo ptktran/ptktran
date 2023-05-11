@@ -2,16 +2,16 @@
 <h3 align="center">trying to learn fullstack development 😪</h3>
 - 🔭 i’m currently working on personal projects and attending hackathons
 - 🕹️ i’m currently learning new frameworks and languages
-- 🖥️ learn more about me at [ptktran.vercel.app](https://ptktran.vercel.app)
+- 🖥️ learn more about me at [https://ptktran.vercel.app](https://ptktran.vercel.app)
 
-languages:
+<b>languages:</b>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,php,bash,mysql&theme=dark" />
   </a>
 </p>
 
-technologies:
+<b>technologies:</b>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,svelte,angular,nodejs,tailwind,bootstrap,github&theme=dark" />

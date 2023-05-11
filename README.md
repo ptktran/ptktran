@@ -4,6 +4,12 @@
 - 🕹️ i’m currently learning new frameworks and languages
 - 🖥️ learn more about me at [https://ptktran.vercel.app](https://ptktran.vercel.app)
 
+- 🔭 I'm currently working on [***quilt***](https://github.com/nathanielfernandes/quilt)
+
+- 👨🏽‍💻 my portfolio site is available at [https://nathanielfernandes.ca](https://nathanielfernandes.ca)
+
+- 📫 You can reach me at **nathaniel.s.fernandes@gmail.com**
+
 <b>languages:</b>
 <p align="left">
   <a href="https://skillicons.dev">

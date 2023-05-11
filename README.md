@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Peter!</h2>
-<h3 align="center">trying to learn fullstack development 😪</h3>
+<h3 align="center">fullstack developer wannabe 😪</h3>
 
 - 🔭 i’m currently working on personal projects and attending hackathons
 
@@ -21,6 +21,6 @@
   </a>
 </p>
 
-<kbd>
+<div>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m9l81amepbe96a1owslqu2ytk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</kbd>
+</div>

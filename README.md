@@ -1,18 +1,18 @@
 <h2 align="center">Hi, I'm Peter!</h2>
-<h3 align="center">trying to become a fullstack developer 🥱</h3>
+<h3 align="center">trying to learn fullstack development 😪</h3>
 - 🔭 i’m currently working on personal projects and attending hackathons
 - 🕹️ i’m currently learning new frameworks and languages
 - 🖥️ learn more about me at [ptktran.vercel.app](https://ptktran.vercel.app)
 
 languages:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,java,c,php,bash,mysql&theme=dark" />
   </a>
 </p>
 
 technologies:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,svelte,angular,nodejs,tailwind,boostrap,github&theme=dark" />
   </a>

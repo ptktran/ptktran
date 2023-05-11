@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Peter!</h2>
+<h2 align="center">Hi, I'm Peter! 👨‍💻</h2>
 <h3 align="center">fullstack developer wannabe 😪</h3>
 
 - 🔭 i’m currently working on personal projects and attending hackathons

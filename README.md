@@ -1,7 +1,9 @@
 <h2 align="center">Hi, I'm Peter!</h2>
 <h3 align="center">trying to learn fullstack development 😪</h3>
 - 🔭 i’m currently working on personal projects and attending hackathons
+
 - 🕹️ i’m currently learning new frameworks and languages
+
 - 🖥️ learn more about me at [https://ptktran.vercel.app](https://ptktran.vercel.app)
 
 - 🔭 I'm currently working on [***quilt***](https://github.com/nathanielfernandes/quilt)

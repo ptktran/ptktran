@@ -14,7 +14,7 @@ languages:
 technologies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,angular,node,tailwind,bootstrap,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,angular,nodejs,tailwind,bootstrap,github&theme=dark" />
   </a>
 </p>
 

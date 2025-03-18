@@ -15,6 +15,6 @@
 <b>technologies</b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,svelte,angular,nodejs,redis,postgres,tailwind,bootstrap,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,svelte,angular,express,nodejs,redis,postgres,tailwind,bootstrap,github&theme=dark" />
   </a>
 </p>
